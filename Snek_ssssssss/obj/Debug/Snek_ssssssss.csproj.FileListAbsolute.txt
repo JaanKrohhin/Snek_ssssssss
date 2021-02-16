@@ -1,0 +1,7 @@
+C:\Users\krohi\source\repos\Snek_ssssssss\Snek_ssssssss\bin\Debug\Snek_ssssssss.exe.config
+C:\Users\krohi\source\repos\Snek_ssssssss\Snek_ssssssss\bin\Debug\Snek_ssssssss.exe
+C:\Users\krohi\source\repos\Snek_ssssssss\Snek_ssssssss\bin\Debug\Snek_ssssssss.pdb
+C:\Users\krohi\source\repos\Snek_ssssssss\Snek_ssssssss\obj\Debug\Snek_ssssssss.csprojAssemblyReference.cache
+C:\Users\krohi\source\repos\Snek_ssssssss\Snek_ssssssss\obj\Debug\Snek_ssssssss.csproj.CoreCompileInputs.cache
+C:\Users\krohi\source\repos\Snek_ssssssss\Snek_ssssssss\obj\Debug\Snek_ssssssss.exe
+C:\Users\krohi\source\repos\Snek_ssssssss\Snek_ssssssss\obj\Debug\Snek_ssssssss.pdb
